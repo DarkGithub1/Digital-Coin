@@ -26,7 +26,7 @@ const Home = () => {
   return (
     <div className='home'>
       <div className="hero">
-        <h1>Largest <br/>Crypto MarketPlace</h1>
+        <h1>Crypto Place</h1>
         <p>Welcome to the world's largest cryptocurrency marketplace.</p>
         <form onSubmit={searchHandler}>
           <input type="text" value={input} list='coinlist' placeholder='Search crypto...' onChange={inputHandler} required/>
