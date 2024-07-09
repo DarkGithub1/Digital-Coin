@@ -2,7 +2,7 @@
 
 Crypto Place is a React-based web application that serves as a cryptocurrency marketplace. It displays real-time data for various cryptocurrencies, including their current prices, 24-hour change percentages, and market capitalization.
 
-![Crypto Place Screenshot](path/to/your/screenshot.png)
+![Crypto Place Screenshot](crypto.png)
 
 ## Features
 
